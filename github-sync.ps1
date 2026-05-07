@@ -15,7 +15,7 @@ git push -u origin main
 
 cd D:/GitHub/NOCpinger
 git init
-echo "# KLJWTech" >> README.md
+#echo "# KLJWTech" >> README.md
 git config --global --add safe.directory D:/GitHub/NOCpinger
 git add README.md
 git branch -M main
